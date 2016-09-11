@@ -1,0 +1,13 @@
+1.Android Smartphone (v4.4.2 above)
+2.Arduino Controller (Here I used, Arduino Uno, you can use it of your choice)
+3.L298N Motor Driver
+4.9V DC Motor 
+5.LD33CV (3.3V Regulator)
+6.HC05 Bluetooth Module
+7.Jumper Wires.
+8.Chassis and wheels
+
+Softwares Required : 
+
+1.Arduino IDE
+2.Android Studio.
